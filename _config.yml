@@ -2,4 +2,4 @@ title: Four
 description: Website for Four (the band).
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
